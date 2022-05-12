@@ -50,3 +50,8 @@ You can see the transaction on [Etherscan](https://etherscan.io/txs)
 
 It will be something like this:
 ![Etherscan](https://github.com/rtq998916/MyNFT/blob/main/images/Etherscan.png)
+
+The contract is now successfully deployed!
+
+### Mint your NFT
+
