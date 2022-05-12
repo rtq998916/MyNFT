@@ -13,5 +13,5 @@ Ether.js library
 
 Rinkeby Test Network
 
-2. How to run
----
+2.How to run
+-----
