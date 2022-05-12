@@ -81,3 +81,14 @@ You can also check the transaction on [Etherscan](https://etherscan.io/txs).
 ### View your NFT
 You can download the Metamask app on your mobile phone and choose the Rinkeby Test Network, then press "import NFT". Paste the contract address, refresh a few times and your NFT will appear in your account!
 ![NFT in account](https://github.com/rtq998916/MyNFT/blob/main/images/NFT%20in%20account.jpg)
+
+## Notice
+This is the DAPP and NFT we created for demonstration. Please feel free if you want to:
+## Use other test networks
+There are many other networks available, many of them are test networks, such as Ropsten, Kovan...etc. You can easily get some test tokens on them. Of course, you can also use the mainnet!
+
+## Create your own DAPP API URL
+Feel free to create your own DAPP on [Alchemy](https://www.alchemy.com/)
+
+## Create your own NFTs
+It is easy to upload and make your own NFTs on [Pinata](https://www.pinata.cloud/)
