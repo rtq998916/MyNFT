@@ -49,4 +49,4 @@ Contract deployed to address: 0x81c587EB0fE773404c473DFQDCQ1327C470eED
 You can see the transaction on [Etherscan](https://etherscan.io/txs)
 
 It will be something like this:
-(https://github.com/rtq998916/MyNFT/blob/main/images/Etherscan.png)
+![Etherscan](https://github.com/rtq998916/MyNFT/blob/main/images/Etherscan.png)
