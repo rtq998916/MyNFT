@@ -76,4 +76,8 @@ node scripts/mint-nft.js
 ```
 If you followed all the steps correctly, you should receive a “Transaction receipt”. It will look something like this:
 ![transaction receipt](https://github.com/rtq998916/MyNFT/blob/main/images/transaction%20receipt.png)
-You can also check the transaction on [Etherscan](https://etherscan.io/txs):
+You can also check the transaction on [Etherscan](https://etherscan.io/txs).
+
+### View your NFT
+You can download the Metamask app on your mobile phone and choose the Rinkeby Test Network, then press "import NFT". Paste the contract address, refresh a few times and your NFT will appear in your account!
+
