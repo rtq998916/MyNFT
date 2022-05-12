@@ -15,7 +15,6 @@ Rinkeby Test Network
 
 ## 2.How to run
 ### Connect your Metamask to this project
-
 First you need a Metamask account to start. Copy your public and private keys, then paste them into the right position of the .env file.
 
 ### Install the openzeppelin
@@ -27,3 +26,8 @@ npm install @openzeppelin/contracts
 This will install the openzeppelin library in your folder. You will need these classes later.
 
 ### Install Ether.js
+Run the following command in the command line:
+```
+npm install --save-dev @nomiclabs/hardhat-ethers "ethers@^5.0.0"
+```
+### Compile the contract
