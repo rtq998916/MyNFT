@@ -76,3 +76,4 @@ node scripts/mint-nft.js
 ```
 If you followed all the steps correctly, you should receive a “Transaction receipt”. It will look something like this:
 ![transaction receipt](https://github.com/rtq998916/MyNFT/blob/main/images/transaction%20receipt.png)
+You can also check the transaction on [Etherscan](https://etherscan.io/txs):
