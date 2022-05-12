@@ -9,7 +9,7 @@ const web3 = createAlchemyWeb3(API_URL);
 
 //step 2: Define our contract ABI (Application Binary Interface) & adresses
 const contract = require("../artifacts/contracts/MyNFT.sol/MyNFT.json");
-const contractAddress = "0xDec13b834d9F98f5aeAEf71aC34cb477379228bB";
+const contractAddress = "Your contract address";
 const nftContract = new web3.eth.Contract(contract.abi, contractAddress);
 
 //step 3: Define the minting function
