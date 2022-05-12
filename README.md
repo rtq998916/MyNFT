@@ -80,4 +80,4 @@ You can also check the transaction on [Etherscan](https://etherscan.io/txs).
 
 ### View your NFT
 You can download the Metamask app on your mobile phone and choose the Rinkeby Test Network, then press "import NFT". Paste the contract address, refresh a few times and your NFT will appear in your account!
-
+![NFT in account](https://github.com/rtq998916/MyNFT/blob/main/images/NFT%20in%20account.jpg)
