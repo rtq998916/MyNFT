@@ -47,3 +47,5 @@ You should see the following sresult but with a different address:
 Contract deployed to address: 0x81c587EB0fE773404c473DFQDCQ1327C470eED
 ```
 You can see the transaction on [Etherscan](https://etherscan.io/txs)
+
+It will be something like this:
