@@ -31,3 +31,14 @@ Run the following command in the command line:
 npm install --save-dev @nomiclabs/hardhat-ethers "ethers@^5.0.0"
 ```
 ### Compile the contract
+The contract will be compiled by calling the "compile" task
+
+Run the following code in command line:
+```
+npx hardhat compile
+```
+### Deploy the contract
+Run the folowing in command line:
+```
+npx hardhat run scripts/deploy.js --network ropsten
+```
