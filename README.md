@@ -46,6 +46,8 @@ You should see the following sresult but with a different address:
 ```
 Contract deployed to address: 0x81c587EB0fE773404c473DFQDCQ1327C470eED
 ```
+Remember this address. We will use it later.
+
 You can see the transaction on [Etherscan](https://etherscan.io/txs)
 
 It will be something like this:
@@ -54,4 +56,22 @@ It will be something like this:
 The contract is now successfully deployed!
 
 ### Mint your NFT
+You will need the alchemy library to interact with their API. Therefore, you should install this.
 
+Run this in the command line:
+```
+npm install @alch/alchemy-web3
+```
+Remember the contract address in the previous part? Now paste it into the right position of the mint-nft.js file:
+```
+const contractAddress = "Your contract address";
+```
+Replace the "Your contract address" with the address you copied.
+
+You now mint your NFT by running the mint-nft script in your terminal.
+
+Run this in your terminal:
+```
+node scripts/mint-nft.js
+```
+If you followed all the steps correctly, you should receive a “Transaction receipt”. It will look something like this:
