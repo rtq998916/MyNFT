@@ -40,5 +40,10 @@ npx hardhat compile
 ### Deploy the contract
 Run the folowing in command line:
 ```
-npx hardhat run scripts/deploy.js --network ropsten
+npx hardhat run scripts/deploy.js --network rinkeby
 ```
+You should see the following sresult but with a different address:
+```
+Contract deployed to address: 0x81c587EB0fE773404c473DFQDCQ1327C470eED
+```
+You can see the transaction on [Etherscan](https://etherscan.io/txs)
