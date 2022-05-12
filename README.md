@@ -1,8 +1,8 @@
 # MyNFT
 ELEN6883 final project
-===
-1.Environment
----
+
+## 1.Environment
+
 hardhat
 
 openzeppelin
@@ -19,3 +19,5 @@ First clone the repository and open it with an IDE you like(Visual Studio Code i
 
 ```
 npm install @openzeppelin/contracts
+
+This will install the openzeppelin library in your folder. You will need these classes later.
